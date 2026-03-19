@@ -35,4 +35,4 @@ include("$(MPY_DIR)/extmod/asyncio")
 
 # Boot script
 freeze("$(OMV_LIB_DIR)/", "boot.py")
-# frozen buzzer self-test for OpenMV N6
+# frozen openmv_n6: trigger firmware build for frozen boot script
